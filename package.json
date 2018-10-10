@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "emotion": "^9.2.12",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-emotion": "^9.2.12",
     "react-scripts": "2.0.4"
   },
   "scripts": {
